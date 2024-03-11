@@ -1,0 +1,29 @@
+_repo: Runouden-kuvastimessa-b-Kirjoja-ja-kirjailijoita-neljas-sarja_73108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+description: ''
+gutenberg_issued: '2024-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73108'
+language: fi
+pgterms:marc905: 20201212111710koskenniem
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Runouden kuvastimessa : $b Kirjoja ja kirjailijoita neljäs sarja'
+url: http://www.gutenberg.org/ebooks/73108
