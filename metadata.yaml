@@ -1,5 +1,8 @@
 _repo: Runouden-kuvastimessa-b-Kirjoja-ja-kirjailijoita-neljas-sarja_73108
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Koskenniemi, Veikko Antero
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9084
     wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73108#Runouden-kuvastimessa-b-Kirjoja-ja-kirjailijoita-neljas-sarja
 gutenberg_issued: '2024-03-05'
 gutenberg_type: Text
 identifiers:
